@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346015198907",
+    "project_id": "useractivity-6955b",
+    "storage_bucket": "useractivity-6955b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346015198907:android:55665be28b6acf04a0839e",
+        "android_client_info": {
+          "package_name": "com.devil.bbdproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346015198907-ksfjcj5ta1a2aa07e9hl22etqs82og9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJsTZbfzzxq8zp5mUzlH8M2ovyhJ5_BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346015198907-ksfjcj5ta1a2aa07e9hl22etqs82og9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
